@@ -21,6 +21,22 @@ npm install --force
 npm start
 ```
 
+## Running Test
+1. `Run Test usinf below command`
+```js
+  npm test
+```
+2. `A list of commands will appear then you may press ( a ) to run all the tests at once`
+```js
+Watch Usage
+ › Press a to run all tests.
+ › Press f to run only failed tests.
+ › Press q to quit watch mode.
+ › Press p to filter by a filename regex pattern.
+ › Press t to filter by a test name regex pattern.
+ › Press Enter to trigger a test run.
+```
+
 ## Introduction
 
 A project made with ReactJS and Typescript, using the Google Maps Javascript API for calculating distance in the input locations. Choose at least 3 addresses, and get the distances for each pair of addresses, ordered from closest to farthest.
