@@ -1,3 +1,6 @@
+Author: ### Mohammed Surguli
+Student: ### International University of Applied Science
+
 # RouteGuide.github.io
 # React Typescript (Tavel Route Guide - Shortest Distance )
 
