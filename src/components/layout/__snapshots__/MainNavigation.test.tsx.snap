@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders MainNavigation correctly 1`] = `
+<nav
+  class="navbar navbar-expand-lg navbar-light bg-light"
+  data-testid="main-navigation"
+>
+  <div
+    class="container"
+  >
+    <a
+      href="/"
+    >
+      <span
+        aria-label="map"
+        role="img"
+      >
+        🗺️
+      </span>
+       
+      Travel Route guide
+    </a>
+    <button
+      aria-controls="basic-navbar-nav"
+      aria-label="Toggle navigation"
+      class="navbar-toggler collapsed"
+      type="button"
+    >
+      <span
+        class="navbar-toggler-icon"
+      />
+    </button>
+    <div
+      class="navbar-collapse collapse"
+      id="basic-navbar-nav"
+    >
+      <div
+        class="me-auto navbar-nav"
+      >
+        <a
+          href="/home"
+        >
+          Home
+        </a>
+        <a
+          href="/cities"
+        >
+          Cities
+        </a>
+        <a
+          href="/result"
+        >
+          Result
+        </a>
+      </div>
+    </div>
+  </div>
+</nav>
+`;
