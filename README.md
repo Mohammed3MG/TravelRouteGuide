@@ -10,7 +10,7 @@ git clone https://github.com/Mohammed3MG/RouteGuide.github.io
 ```
 2. `Go to directory`
 ```js 
-cd react-distance-calculator
+cd RouteGuide
 ```
 3. `Install required libraries`
 ```js 
