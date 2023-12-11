@@ -53,4 +53,3 @@ A project made with ReactJS and Typescript, using the Google Maps Javascript API
 5. Bootstrap
 6. Google Maps Javascript API
 7. Google Places API
-# RouteGuide.github.io
