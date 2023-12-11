@@ -1,5 +1,5 @@
 # RouteGuide.github.io
-# React Typescript (Tavel Route Guide - Shortest Distancce )
+# React Typescript (Tavel Route Guide - Shortest Distance )
 
 
 ## Installation
@@ -14,7 +14,7 @@ cd RouteGuide
 ```
 3. `Install required libraries`
 ```js 
-npm i
+npm install --force
 ```
 4. `Start project on http://localhost:3000/`
 ```js 
