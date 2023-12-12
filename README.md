@@ -9,13 +9,13 @@
 
 1. `Clone repository`
 ```js 
-git clone https://github.com/Mohammed3MG/RouteGuide.github.io
+git clone https://github.com/Mohammed3MG/TravelRouteGuide.git
 ```
 2. `Go to directory`
 ```js 
-cd RouteGuide
+cd TravelRouteGuide
 ```
-3. `Install required libraries`
+3. `Install required libraries usinf --force method`
 ```js 
 npm install --force
 ```
