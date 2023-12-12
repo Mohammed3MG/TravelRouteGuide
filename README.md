@@ -15,7 +15,7 @@ git clone https://github.com/Mohammed3MG/TravelRouteGuide.git
 ```js 
 cd TravelRouteGuide
 ```
-3. `Install required libraries usinf --force method`
+3. `Install required libraries using --force method`
 ```js 
 npm install --force
 ```
@@ -41,8 +41,7 @@ Watch Usage
 ```
 
 ## Introduction
-
-A project made with ReactJS and Typescript, using the Google Maps Javascript API for calculating distance in the input locations. Choose at least 3 addresses, and get the distances for each pair of addresses, ordered from closest to farthest.
+Planning travel can be time-consuming and stressful, involving extensive research and cost calculations. Despite relying on third-party information, every traveler has unique preferences for activities. Determining the order of destinations based on personal estimates can be challenging, and deviating from the initial plan is expected. This often results in financial and time constraints that impede the realization of the original itinerary. This project aims to provide a convenient solution for travelers exploring multiple regions. Users can select destinations they wish to visit, and the application will calculate the optimal route, minimizing travel time and costs.  A project made with ReactJS and Typescript, using the Google Maps Javascript API for calculating distance in the input locations. Choose at least 3 addresses, and get the distances for each pair of addresses, ordered from closest to farthest.
 
 ## Features
 
