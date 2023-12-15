@@ -3,8 +3,9 @@ import { Link } from "react-router-dom";
 const Cities = () => {
   return (
     <section>
-      <h2 className="text-center">List of Cities</h2>
+     
       <Card>
+      <h2 className="text-center">List of Cities</h2>
         <Card.Header>Pick your destination city</Card.Header>
         <Card.Body>
           <div className="row">

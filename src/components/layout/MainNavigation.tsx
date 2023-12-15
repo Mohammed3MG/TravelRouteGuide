@@ -1,5 +1,6 @@
 import { Container, Navbar, Nav } from "react-bootstrap";
 import { Link } from "react-router-dom";
+import logo from "../../assets/img/logo.webp"
 
 const MainNavigation = () => {
   return (
@@ -7,7 +8,7 @@ const MainNavigation = () => {
       <Container>
         <Link to="/" className="navbar-brand">
           <span role="img" aria-label="map">
-            🗺️
+            <img src={logo} height={25} />
           </span>{" "}
          Travel Route guide
         </Link>

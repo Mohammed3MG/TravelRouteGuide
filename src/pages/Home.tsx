@@ -4,8 +4,9 @@ import AddressTable from "../components/address/AddressTable";
 const Home = () => {
   return (
     <section>
-      <h2 className="text-center">React Distance Calculator App</h2>
+    
       <Card>
+      <h2 className="text-center">Travel Route Guide</h2>
         <Card.Header>Your Addresses</Card.Header>
         <Card.Body>
           <div className="row">

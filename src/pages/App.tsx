@@ -13,7 +13,7 @@ const App = () => {
   return (
     <Fragment>
       <MainNavigation />
-      <main className="my-5">
+      <main>
         <Container>
           <Routes>
             <Route path="/" element={<Cities />} />

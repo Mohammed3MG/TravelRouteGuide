@@ -5,7 +5,6 @@ import MapHelperHamburg from "../../helpers/MapHelperHamburg";
 import { v4 as uuidV4 } from "uuid";
 import Search from "./Search";
 import Markers from "./Markers";
-import classes from "./Map.module.scss";
 import { useAppDispatch, useAppSelector } from "../../store/hooks";
 import { addAddress } from "../../store/addressSlice";
 import Locate from "./Locate";

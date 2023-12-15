@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { GoogleMap, Marker, DirectionsRenderer, useLoadScript } from '@react-google-maps/api';
-import { Tooltip } from 'react-tooltip';
-import { Card, Table } from "react-bootstrap";
+import { Table } from "react-bootstrap";
 
 interface MarkerData {
   position: google.maps.LatLngLiteral;

@@ -6,8 +6,6 @@ import Empty from "./Empty";
 import Header from "./Header";
 import classes from "./AddressTable.module.scss";
 import Ready from "./Ready";
-import Address from "./Address";
-import IAddress from "../../types/IAddress";
 interface Props {
   mapPage?: boolean;
   resultPage?: boolean;

@@ -10,8 +10,9 @@ import charlot from "../assets/img/charlot.webp";
 const Form = () => {
   return (
     <section>
-      <h2 className="text-center">Choose your addresses</h2>
+      
       <Card>
+      <h2 className="text-center">Choose your addresses</h2>
         <Card.Header>Pick your addresses</Card.Header>
         <Card.Body>
           <div className="row">

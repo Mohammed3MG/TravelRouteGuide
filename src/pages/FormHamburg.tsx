@@ -11,8 +11,9 @@ import church from "../assets/img/church.webp";
 const FormHamburg = () => {
   return (
     <section>
-      <h2 className="text-center">Choose your addresses</h2>
+      
       <Card>
+      <h2 className="text-center">Choose your addresses</h2>
         <Card.Header>Pick your addresses</Card.Header>
         <Card.Body>
           <div className="row">

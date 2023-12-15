@@ -1,4 +1,4 @@
-import { Card, Table } from "react-bootstrap";
+import { Card } from "react-bootstrap";
 import AddressTable from "../components/address/AddressTable";
 import { useAppSelector } from "../store/hooks";
 import classes from "./Results.module.scss";
@@ -14,7 +14,7 @@ const Results: React.FC = () => {
 
   // State to store the addresses in the shortest path order
   const [addresses, setAddresses] = useState<string[]>([]);
-
+  
   // Data structure for markers on the map
   interface MarkerData {
     position: { lat: number; lng: number };
@@ -92,6 +92,7 @@ const Results: React.FC = () => {
 
         // Set the addresses in the state
         setAddresses(shortestPathAddresses);
+        
       } catch (error) {
         console.error('Error calculating shortest distance:', error);
       }
